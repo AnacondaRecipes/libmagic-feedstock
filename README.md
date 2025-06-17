@@ -1,3 +1,5 @@
+Replace with https://github.com/AnacondaRecipes/file-feedstock
+
 About libmagic
 ==============
 
